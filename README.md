@@ -7,7 +7,6 @@
 - 💻 Especializado en construir interfaces de usuario eficientes, escalables y atractivas.
 - 🚀 Actualmente desarrollando soluciones integrales que combinan un frontend moderno con servicios backend.
 - 🏗️ Enfoque en buenas prácticas, código limpio y arquitecturas escalables (como metodología BEM para estilos).
-- ⚡ Intereses fuera del código: Entrenamiento en el gimnasio, fútbol, cicloturismo y gaming (CS2, LoL, Warzone, Albion Online).
 
 ## 🛠️ Stack Tecnológico
 
