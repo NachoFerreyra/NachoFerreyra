@@ -36,12 +36,6 @@
 - **M&S Negocios e Inversiones**: Plataforma inmobiliaria freelance con catálogo interactivo de propiedades, filtros avanzados, modal de visualización y un panel de administración protegido. Construido con React, Vite, SCSS y Supabase.
 - **Portfolio Interactivo**: Mi portfolio personal diseñado para simular de forma interactiva la interfaz de Visual Studio Code. Cuenta con enrutamiento dinámico, tema claro/oscuro y un explorador de archivos funcional, estructurado con React y módulos de SCSS.
 
-## 📊 Estadísticas de GitHub
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NachoFerreyra&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF" alt="Estadísticas de GitHub" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NachoFerreyra&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Lenguajes Principales" />
-</div>
 
 ## 📫 Contacto
 
