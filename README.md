@@ -45,4 +45,7 @@
   <a href="mailto:ignaciooferreyraa@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
+  <a href="./Ignacio_Ferreyra_CV.pdf" target="_blank">
+    <img src="https://img.shields.io/badge/Descargar_CV-2b3137?style=for-the-badge&logo=github&logoColor=white" alt="Curriculum Vitae" />
+  </a>
 </p>
