@@ -11,6 +11,7 @@
 ## 🛠️ Stack Tecnológico
 
 ### Frontend
+
 <p align="left">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
@@ -22,6 +23,7 @@
 </p>
 
 ### Backend y Herramientas
+
 <p align="left">
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green" alt="Django" />
   <img src="https://img.shields.io/badge/Supabase-181818?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" />
@@ -35,7 +37,6 @@
 - **M&S Negocios e Inversiones**: Plataforma inmobiliaria freelance con catálogo interactivo de propiedades, filtros avanzados, modal de visualización y un panel de administración protegido. Construido con React, Vite, SCSS y Supabase.
 - **Portfolio Interactivo**: Mi portfolio personal diseñado para simular de forma interactiva la interfaz de Visual Studio Code. Cuenta con enrutamiento dinámico, tema claro/oscuro y un explorador de archivos funcional, estructurado con React y módulos de SCSS.
 
-
 ## 📫 Contacto
 
 <p align="left">
@@ -46,10 +47,8 @@
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="./Ignacio_Ferreyra_CV.pdf" target="_blank">
-<<<<<<< HEAD
     <img src="https://img.shields.io/badge/Curriculum_Vitae-2b3137?style=for-the-badge&logo=github&logoColor=white" alt="Curriculum Vitae" />
 =======
     <img src="https://img.shields.io/badge/Descargar_CV-2b3137?style=for-the-badge&logo=github&logoColor=white" alt="Curriculum Vitae" />
->>>>>>> 8cc158b86aeac276b8ff92d9464ea52a8c6c244c
   </a>
 </p>
